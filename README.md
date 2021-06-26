@@ -68,9 +68,13 @@ I'm Arpan, a 21 years old developer from Kolkata, India.
 </a>
 
 <br/>
+
 <p style="margin-top:5px" align="center">
+
 <img src="https://komarev.com/ghpvc/?username=arpan0702"/>
+
 </p>
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
