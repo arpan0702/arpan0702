@@ -72,10 +72,10 @@ I'm Arpan, a 21 years old developer from Kolkata, India.
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://arpan0702.github.io/arpan.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/arpandutta07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/arpan_07_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:allinonearpandutta@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://arpan0702.github.io/arpan.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.arpan0702.github.io/arpan.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/arpandutta07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arpan%20Dutta-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/arpan_07_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-arpan_07_-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:allinonearpandutta@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-allinonearpandutta@gmail.com?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/arpan0702)
+⭐️ Happy Engineering!
