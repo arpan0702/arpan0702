@@ -6,14 +6,20 @@
 
 I'm Arpan, a 21 years old developer from Kolkata, India.
 
-- 👥 Core team member at [@hyperface-tech](https://github.com/hyperface-tech)
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science at KIIT University.
+- 💼 &nbsp; Working as a SDE Intern at Hyperface.
+- 🌱 &nbsp; Learning more about System Design, Cloud Architecture and Web Development.
+- ✍️ &nbsp; Pursuing Finance and Career Coaching as hobbies/side hustles.
 
-## Skills
+## Tech Stack
 
 - 👨‍💻 C++, JavaScript, Python, Java
 - ⚙️ React, NodeJS, Flask
 - 👁️ HTML, CSS, Bootstrap
 - 💽 MySQL, SQL, PostgreSQL
+- ⚙️ Git, Github
+- 🔧 Visual Studio Code, Sublime Text Editor, Codeblocks
 
 ## Contact
 
@@ -23,14 +29,7 @@ I'm Arpan, a 21 years old developer from Kolkata, India.
 - [@arpan*07*](https://www.codechef.com/users/arpan_07_) on Codechef
 - [@arpan_d](https://leetcode.com/arpan_d/) on Leetcode
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at KIIT University.
-- 💼 &nbsp; Working as a SDE Intern at Hyperface.
-- 🌱 &nbsp; Learning more about System Design, Cloud Architecture and Web Development.
-- ✍️ &nbsp; Pursuing Finance and Career Coaching as hobbies/side hustles.
-
+<!--
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -60,7 +59,7 @@ I'm Arpan, a 21 years old developer from Kolkata, India.
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-
+-->
 <a href="https://github.com/arpan0702">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arpan0702&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpan0702&theme=buefy&layout=compact" />
