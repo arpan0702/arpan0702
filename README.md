@@ -20,6 +20,7 @@ I'm Arpan, a 21 years old developer from Kolkata, India.
 - 💽 MySQL, SQL, PostgreSQL
 - ⚙️ Git, Github
 - 🔧 Visual Studio Code, Sublime Text Editor, Codeblocks
+<!--
 
 ## Contact
 
@@ -28,9 +29,10 @@ I'm Arpan, a 21 years old developer from Kolkata, India.
 - [@arpan*07*](https://www.instagram.com/arpan_07_/) on Instagram
 - [@arpan*07*](https://www.codechef.com/users/arpan_07_) on Codechef
 - [@arpan_d](https://leetcode.com/arpan_d/) on Leetcode
-
+-->
 <!--
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
