@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/arpan0702/arpan0702/master/name.svg" alt="Arpan Dutta" />
 </h1>
 
+<div class="context">
 ## Hey! 👋
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -47,7 +48,23 @@ I'm Arpan, a 21 years old developer from Kolkata, India.
 <a href="https://arpan0702.github.io/arpan.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.arpan0702.github.io/arpan.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/arpandutta07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arpan%20Dutta-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/arpan_07_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-arpan_07_-blue?style=flat-square&logo=instagram"></a>
--->
 </p>
 
 ⭐️ Happy Coding!
+
+</div>
+
+<div class="area" >
+            <ul class="circles">
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+            </ul>
+</div >
