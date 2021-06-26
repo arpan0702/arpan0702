@@ -4,6 +4,8 @@
 
 ## Hey! 👋
 
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 I'm Arpan, a 21 years old developer from Kolkata, India.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
