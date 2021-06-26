@@ -66,8 +66,7 @@ I'm Arpan, a 21 years old developer from Kolkata, India.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arpan0702&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpan0702&theme=buefy&layout=compact" />
 </a>
-<br/>
-😂 Here is a random joke that'll make you laugh!![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <br/>
 <img src="https://komarev.com/ghpvc/?username=arpan0702"/>
 <br/>
