@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/arpan0702/arpan0702/master/name.svg" alt="Arpan Dutta" />
 </h1>
 
-<div class="context">
+<div class="context" style="color:grey">
 ## Hey! 👋
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -53,18 +53,3 @@ I'm Arpan, a 21 years old developer from Kolkata, India.
 ⭐️ Happy Coding!
 
 </div>
-
-<div class="area" >
-            <ul class="circles">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-            </ul>
-</div >
